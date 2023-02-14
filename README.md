@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chouaib Djerdi</h1>
 <h3 align="center">A passionate Python backend developer from Algeria</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/51/e4/6851e47b16ca7bced899cc404a672db6.gif">
+<img align="right" alt="Coding" width="425" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chouaib-djerdi&label=Profile%20views&color=0e75b6&style=flat" alt="chouaib-djerdi" /> </p>
 
