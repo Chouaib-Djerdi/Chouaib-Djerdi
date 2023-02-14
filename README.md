@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chouaib Djerdi</h1>
 <h3 align="center">A passionate Python backend developer from Algeria</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/cYV2BPDio1EAAAAd/cyberpunk-cyberpunk-anime.gif">
+<img align="right" alt="Coding" width="400" src="https://sasj.tumblr.com/post/166957912395/geometric-animations-171030">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=chouaib-djerdi&label=Profile%20views&color=0e75b6&style=flat](https://sasj.tumblr.com/post/166957912395/geometric-animations-171030)" alt="chouaib-djerdi" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=chouaib-djerdi&label=Profile%20views&color=0e75b6&style=flat]" alt="chouaib-djerdi" /> </p>
 
 - 🌱 I’m currently mastering backend development **Django**
 
