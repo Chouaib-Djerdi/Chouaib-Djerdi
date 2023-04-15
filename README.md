@@ -8,7 +8,7 @@
 <table >
   <tr>
     <td >
-      <h2>💫About Me</h2>
+      <h1>💫About Me</h1>
       <h4>🌱 I’m currently mastering backend development Django<br><br>
       💬 Ask me about Python, Front-end or Back-end Development<br><br>
       📫 How to reach me djerdichouaib@gmail.com<br><br>
@@ -21,7 +21,7 @@
 </table>
 
   
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Chouaib__Djerdi#9337) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Chouaib.Djerdi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chouaib.djerdi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chouaib-djerdi-53b30b254) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@djerdichouaib) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Chouaib_Djerdi) 
 
 # 💻 Tech Stack:
