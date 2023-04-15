@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chouaib Djerdi</h1>
-<h3 align="center">A passionate Python backend developer from Algeria</h3>
+<h3 align="center">A Passionate Web Developer from Algeria</h3>
 
 
 
