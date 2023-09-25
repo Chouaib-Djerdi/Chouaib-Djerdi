@@ -29,5 +29,4 @@
 # 📊 GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chouaib-Djerdi&theme=radical&size_weight=0.5&count_weight=0.5)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chouaib-Djerdi&theme=radical&hide_border=false)<br/>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chouaib-Djerdi&theme=radical&hide_border=false)
