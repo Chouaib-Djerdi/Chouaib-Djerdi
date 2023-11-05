@@ -6,7 +6,7 @@
   <tr>
     <td >
       <h1>💫About Me</h1>
-      <h4>🌱 I’m currently Learning Advanced Javascript<br><br>
+      <h4>🌱 I’m currently Learning Advanced React.js<br><br>
       💬 Ask me about Python, Front-end or Back-end Development<br><br>
       📫 How to reach me djerdichouaib@gmail.com<br><br>
       ⚡ Fun fact I got into coding because I loved the game Watch Dogs</h4>
@@ -38,29 +38,41 @@
 </div>
 
 # 💻 Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50 alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="55" alt="vite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="55" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="55" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="55" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="55" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo"  />
 </div>
+
+###
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chouaib-Djerdi&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5)
