@@ -1,21 +1,13 @@
-<h1 align="left">Hi 👋! My name is Chouaib and I'm a Web Developer, from Algeria</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chouaib-djerdi&label=Profile%20views&color=0e75b6&style=flat" alt="chouaib-djerdi" /> </p>
 
-<table >
-  <tr>
-    <td >
-      <h1>💫About Me</h1>
-      <h4>🌱 I’m currently Learning Advanced React.js<br><br>
-      💬 Ask me about Python, Front-end or Back-end Development<br><br>
-      📫 How to reach me djerdichouaib@gmail.com<br><br>
-      ⚡ Fun fact I got into coding because I loved the game Watch Dogs</h4>
-    </td>
-    <td >
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=chartreuse-dark" />
-    </td>
-  </tr>
-</table>
+
+  
+```
+Hey there, 
+I'm Chouaib, a 3rd year CS student and Web developer
+I enjoy reading, coding, playing video games
+```
+
 
   
 # 🌐 Socials:
