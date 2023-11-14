@@ -5,7 +5,7 @@
 ```
 Hey there, 
 I'm Chouaib, a 3rd year CS student and Web developer
-I enjoy reading, coding, playing video games
+I enjoy reading 📖, coding 👨‍💻, playing video games 🎮
 ```
 
 
