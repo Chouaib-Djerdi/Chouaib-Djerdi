@@ -45,11 +45,15 @@ I enjoy reading 📖, coding 👨‍💻, playing video games 🎮
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
   <img width="12" />
+<!--   <img src="https://skillicons.dev/icons?i=redux" height="55 alt="redux logo"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=vite" height="55" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="55" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="55" alt="selenium logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="55" alt="c logo"  />
   <img width="12" />
