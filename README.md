@@ -32,7 +32,7 @@ I enjoy reading 📖, coding 👨‍💻, playing video games 🎮
 # 💻 Tech Stack:
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo"  />
@@ -66,6 +66,14 @@ I enjoy reading 📖, coding 👨‍💻, playing video games 🎮
   <img src="https://skillicons.dev/icons?i=postman" height="55" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="55" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="55" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgresql logo"  />
 </div>
 
 ###
