@@ -79,5 +79,5 @@ I enjoy reading 📖, coding 👨‍💻, playing video games 🎮
 ###
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chouaib-Djerdi&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chouaib-Djerdi&theme=chartreuse-dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chouaib-Djerdi&theme=aura&hide_border=true&size_weight=0.5&count_weight=0.5)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chouaib-Djerdi&theme=aura&hide_border=true)
