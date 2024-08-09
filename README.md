@@ -4,7 +4,7 @@
   
 ```
 Hey there, 
-I'm Chouaib, a 3rd year CS student and Web developer
+I'm Chouaib, a 4th year CS student and Next.js + Python Web developer
 I enjoy reading 📖, coding 👨‍💻, playing video games 🎮
 I'm currently mastering Next.js, Data Science & AI
 ```
