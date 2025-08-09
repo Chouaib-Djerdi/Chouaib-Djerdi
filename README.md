@@ -1,76 +1,54 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5fc27a96-8450-4af8-a0e5-a2c8bcc1c8fb" alt="giphy" height="auto" />
-</div>
-
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/chouaib-djerdi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="djerdichouaib@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/Chouaib.Djerdi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-</div>
+<p align="left">My name is Chouaib Djerdi and I'm a Computer Science student specializing in AI & Data Science, and a backend-focused web developer, from Algeria.</p>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Chouaib-Djerdi/count.svg?"  />
-</div>
+<h2 align="left">About me</h2>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<p align="left">- Final-year Computer Science student specializing in AI & Data Science<br>- Backend-focused web developer with expertise in Python, Django, and DRF<br>- Skilled in building modern frontends using Next.js and React<br>- Currently working on AI/ML projects, with an interest in computer vision and cybersecuri</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Chouaib, a developer from Algeria.<br><br>🔭 I’m working as a full-stack developer, currently building apps with Django and Next.js.<br><br>📚 I'm currently learning Artificial Intelligence and Machine Learning, with a focus on computer vision.<br><br>⚡ In my free time I explore and work on startup ideas..</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="30" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<img align="right" height="199" src="https://i.imgflip.com/8i1byq.jpg"  />
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chouaib-Djerdi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chouaib-Djerdi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chouaib-Djerdi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
