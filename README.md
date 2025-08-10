@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" height="199" src="https://i.imgflip.com/8i1byq.jpg"  />
+<img align="right" height="150" src="https://i.imgflip.com/8i1byq.jpg"  />
 
 ###
 
