@@ -4,6 +4,11 @@
 
 <p align="left">My name is Chouaib Djerdi and I'm a Computer Science student specializing in AI & Data Science, and a backend-focused web developer, from Algeria.</p>
 
+
+###
+
+<img align="right" height="189" src="https://i.imgflip.com/8i1byq.jpg"  />
+
 ###
 
 <h2 align="left">About me</h2>
@@ -42,7 +47,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/8i1byq.jpg"  />
 
 ###
 
