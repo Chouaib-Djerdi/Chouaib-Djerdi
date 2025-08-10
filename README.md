@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- Final-year Computer Science student specializing in AI & Data Science<br>- Backend-focused web developer with expertise in Python, Django, and DRF<br>- Skilled in building modern frontends using Next.js and React<br>- Currently working on AI/ML projects, with an interest in computer vision and cybersecuri</p>
+<p align="left">- Final-year Computer Science student specializing in AI & Data Science<br>- Backend-focused web developer with expertise in Python, Django, and DRF<br>- Skilled in building modern frontends using Next.js and React<br>- Currently working on AI/ML projects, with an interest in computer vision and cybersecurity</p>
 
 ###
 
